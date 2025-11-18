@@ -7,7 +7,6 @@ ubuntu:xenial
 maven:3.6-jdk-8-openj9
 centos:7
 centos:8
-barnybug/openjdk-7-jre
 debian:stretch-slim
 ubuntu:16.04
 ubuntu:12.04
