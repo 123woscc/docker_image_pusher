@@ -13,4 +13,3 @@ ubuntu:12.04
 ubuntu:18.04
 ubuntu:14.04
 erichough/nfs-server
-elasticsearch:7.10.2
